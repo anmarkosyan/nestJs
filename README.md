@@ -11,7 +11,7 @@
 ## General info
 This is complete Node.js, NestJs, Typescript, TypeORM, Jest bootcamp from **[Udemy](https://www.udemy.com/course/nestjs-the-complete-developers-guide/)**,
 Here you can find modern and powerful backand applications with Node.js and related modern technologies.
-* How to define app from scratch using nestjs and typescript
+* Define app from scratch using nestjs and typescript
 * Created messages_app
 
 
