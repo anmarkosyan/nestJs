@@ -22,6 +22,7 @@ This is complete Node.js, NestJs, Typescript, TypeORM, Jest bootcamp from **[Ude
 Here you can find modern and powerful backand applications with Node.js and related modern technologies.
 * Define app **_scratch_** using basics of nestjs and typescript
 * Created **_messages_app_** 
+* Created **_computer_** app, for showing how to work with DI containers, and several modules
 
 
 
